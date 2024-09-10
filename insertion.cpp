@@ -12,7 +12,7 @@ class NODE{
         next = NULL;
     }
     NODE(){
-
+        // Basic Constructor
     }
 };
 
