@@ -64,7 +64,7 @@ int main(){
     cin>>x>>val;
 
     node*temp1 = head;
-    x--;//Bcoz one node is used 
+    x--;//Bcoz one node is used previously
 
     while(x--){
         temp1=temp1->next;
