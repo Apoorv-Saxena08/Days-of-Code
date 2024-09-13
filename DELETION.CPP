@@ -26,7 +26,7 @@ int main(){
             tail=tail->next;
         }
     }
-    //print linked List
+    //print Linked List
     node*temp =head;
     while(temp!=NULL){
         cout<<temp->data<<" ";
