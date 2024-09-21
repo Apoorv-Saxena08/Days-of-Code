@@ -14,7 +14,7 @@ class NODE{
 };
 
 int main(){
-    
+    //dma
     NODE *head;
     head = new NODE(10);
     cout<<head->data<<endl;
