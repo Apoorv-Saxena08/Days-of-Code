@@ -11,7 +11,7 @@ class node{
         next = NULL;
     }
 };
-//node at end using recusion tr
+//node at end using recusion t
 node *createLL(int arr[] , int index, int size){
     if(index==size){
         return NULL;
